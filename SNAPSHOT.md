@@ -1,6 +1,6 @@
 # Kent County Flock snapshots
 
-Last updated: 2026-09-09 04:55 UTC
+Last updated: 2026-09-09 05:45 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
