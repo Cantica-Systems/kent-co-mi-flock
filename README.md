@@ -40,7 +40,7 @@ Search-audit CSVs are partitioned by **search time**. A search from 31 August li
 
 Share lists are the current portal snapshot. `git log -p data/kent-county-so/sharing_outbound.csv` shows when partners were added or removed.
 
-Agencies pick which portal widgets to publish. A blank `stats.csv` cell (shown as — in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page — not that the capture failed. Search-audit CSVs are the same: some portals omit the public audit entirely.
+Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as — in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
 
 ## Columns (search audits)
 
