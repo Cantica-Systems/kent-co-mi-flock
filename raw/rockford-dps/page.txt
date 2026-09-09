@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Tue Sep 08 2026
+Last updated: Wed Sep 09 2026
 
 Overview
 
@@ -67,6 +67,12 @@ Number of LPR cameras only.
 
 3
 
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+71,960
+
 Number of Searches
 
 Total user search sessions over the last 30 days.
@@ -83,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-93
+91
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -640,22 +646,48 @@ Wyoming MI PD
 Zeeland MI PD
 Policy & Trust
 
-What's Detected
+What ALPR Captures, How Information Is Retained, and What an Observation Does Not Establish
 
-License Plates and Vehicles
+The Rockford Department of Public Safety uses automated license plate recognition (ALPR) technology to capture vehicle-related information from vehicles passing by an ALPR camera.
 
-What Flock Does Not Do or Detect
+An ALPR observation may include:
 
-- Facial Recognition - Flock does not identify people by their faces.
-- Driver or passenger identification - Flock cannot identify people.
-- Record phone calls or conversations - There are no microphones for audio surveillance.
-- Read text messages or cell phone activity.
-- Track a peron's phone location.
-- Recognize race, gender, or personal identity of vehicle occupants.
-- Predict crimes or automatically determine criminal activity.
+- The license plate number
+- An image of the vehicle and the license plate
+- The date and time of the observation
+- The location of the ALPR camera
+- General visible vehicle characteristics, such as make, color, body style, and other distinguishing features
 
+ALPR technology provides a time and location-based observation of a vehicle. It does not independently identify the driver or passengers of the vehicle, nor does it establish that a crime has occurred or that the vehicle or its occupants are involved in any criminal activity.
 
-Acceptable Use Policy
+An ALPR observation does not include:
+
+- Facial recognition
+- Any personal identifying information
+- Recognition of race, gender, or personal identity of vehicle occupants
+- Sound or audio surveillance
+
+An ALPR alert or search result serves as an investigative lead. It must be evaluated alongside other available information and verified independently before any enforcement action is taken. Personnel must ensure they have the appropriate lawful basis for any investigative detention, search, arrest, or other law enforcement actions.
+
+The standard retention period for ALPR observation data at RDPS is 30 days. Information may be retained beyond this period only if it is relevant to an authorized investigation, preserved as evidence, required by court order, or mandated by law. Evidence that is preserved is maintained in accordance with applicable evidence retention, records retention, and legal requirements.
+
+Access to ALPR information is restricted to trained and authorized personnel. Searches and user activities are logged and may be reviewed to ensure compliance with RDPS policy, applicable laws, and authorized law enforcement purposes. All data is captured by the ALPR is owned by RDPS.
+
+Authorized Use Policy
+
+Authorized uses of ALPR information include:
+
+- Investigating reported criminal activity
+- Identifying or locating vehicles related to a criminal investigation
+- Locating stolen vehicles or stolen license plates
+- Assisting in the identification or recovery of stolen property
+- Locating vehicles associated with individuals wanted for criminal activity or with valid arrest warrants
+- Assisting in locating missing, endangered, or abducted persons
+- Responding to serious or imminent threats to public safety
+- Developing, confirming, or corroborating investigative leads
+- Identifying possible connections between related criminal incidents
+- Supporting authorized investigations conducted with other law enforcement or criminal justice agencies
+- Other lawful criminal justice purposes as authorized by RDPS policy
 
 Data is used for law enforcement purposes only. Data is owned by Rockford Dept of Public Safety MI and is never sold to 3rd parties.
 
