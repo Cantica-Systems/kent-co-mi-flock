@@ -1,6 +1,6 @@
 # Kent County Flock archive
 
-Public-record archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Kent County agencies:
+This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Kent County agencies. It collects the data those portals publish — search audits, share lists, and page snapshots — before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
 
 - **Grand Rapids City PD** — `https://transparency.flocksafety.com/grand-rapids-mi-pd`
 - **Kent County Sheriff’s Office** — `https://transparency.flocksafety.com/kent-county-mi-so`
@@ -9,8 +9,6 @@ Public-record archive of [Flock Safety transparency portals](https://transparenc
 - **Grandville PD** — `https://transparency.flocksafety.com/grandville-pd-mi`
 - **Lowell PD** — `https://transparency.flocksafety.com/lowell-mi-pd`
 - **Rockford Dept of Public Safety** — `https://transparency.flocksafety.com/rockford-dept-of-public-safety-mi`
-
-Same idea as [west-michigan-dispatch](https://github.com/Cantica-Systems/west-michigan-dispatch): **the git history is the time-series.** The portals only keep about 30 days of search audits. This repo keeps every search id we have seen, in the month it occurred.
 
 Latest summary: [`SNAPSHOT.md`](SNAPSHOT.md).
 
