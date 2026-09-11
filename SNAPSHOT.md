@@ -1,12 +1,12 @@
 # Kent County Flock snapshots
 
-Last updated: 2026-09-10 17:23 UTC
+Last updated: 2026-09-11 02:32 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 | [Grand Rapids MI PD](data/grand-rapids-city-pd/) | Wed Sep 09 2026 | 29 | 484,236 | 1,392 | 11,738 | 1,656 | 1,245 | 69 |
 | [Kent County MI SO](data/kent-county-so/) | Wed Sep 09 2026 | 62 | 1,022,367 | 1,287 | 10,463 | 318 | 615 | 52 |
-| [Walker MI PD](data/walker-city-pd/) | Wed Sep 09 2026 | 7 | 175,642 | 86 | 914 | 172 | 459 | 0 |
+| [Walker MI PD](data/walker-city-pd/) | Thu Sep 10 2026 | 7 | 173,489 | 87 | 894 | 172 | 459 | 5 |
 | [Wyoming MI PD](data/wyoming-city-pd/) | Wed Sep 09 2026 | 44 | 665,645 | 268 | 15,118 | 1,704 | 660 | 7 |
 | [Grandville PD MI](data/grandville-city-pd/) | Thu Sep 10 2026 | 9 | 348,123 | 60 | 1,202 | 1,605 | 235 | 0 |
 | [Lowell MI PD](data/lowell-city-pd/) | Thu Sep 10 2026 | 5 | 108,630 | 22 | 226 | 210 | 207 | 0 |

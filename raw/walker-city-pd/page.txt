@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Wed Sep 09 2026
+Last updated: Thu Sep 10 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-175,642
+173,489
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-86
+87
 
 Hotlists Alerted On
 
@@ -89,15 +89,15 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-914
+894
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Hit and Run/Car Accident
 Larceny/Theft Offenses
 Drugs/Narcotics
 Obstructing the Police (Fleeing/Eluding)
+Hit and Run/Car Accident
 Financial Crime (Embezzlement/Fraud)
 
 Sharing Network Data With
