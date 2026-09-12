@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Thu Sep 10 2026
+Last updated: Fri Sep 11 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-173,489
+172,064
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-87
+79
 
 Hotlists Alerted On
 
@@ -89,16 +89,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-894
+885
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Larceny/Theft Offenses
 Drugs/Narcotics
-Obstructing the Police (Fleeing/Eluding)
-Hit and Run/Car Accident
 Financial Crime (Embezzlement/Fraud)
+Weapons Offense (Guns/Shots Fired)
+Hit and Run/Car Accident
 
 Sharing Network Data With
 
@@ -414,7 +414,6 @@ Grand Traverse County MI SO
 Grand Valley State University MI
 Grandville PD MI
 Grant County IN SO
-Grant County WI SO
 Green Township OH PD
 Greencastle IN PD
 Greenfield IN PD
@@ -734,7 +733,6 @@ Williamson County TN SO
 Winnebago County WI SO
 Wixom MI PD
 Wolverine Lake MI PD
-Wood County WI SO
 Woodson Terrace MO PD
 Wyandotte MI PD
 Wyoming MI PD
